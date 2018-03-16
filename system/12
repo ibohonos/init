@@ -1,1 +1,1 @@
-sudo du -chd 1 /var
+sudo du -chd 1 /var/
